@@ -1,12 +1,12 @@
 {
-    "name": "dgvai/laravel-invoicer",
+    "name": "umermalik129/laravel-invoicer",
     "description": "Invoice Management Package For Laravel",
     "type": "package",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jalal Uddin",
-            "email": "dgvai@users.noreply.github.com"
+            "name": "Muhammad Umer",
+            "email": "umermalik129@gmail.com"
         }
     ],
     "minimum-stability": "stable",
